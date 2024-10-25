@@ -1,0 +1,14 @@
+{
+	"appId": "com.tastebuddy.app",
+	"appName": "tastebuddy",
+	"webDir": "dist/restaurant-tinder",
+	"server": {
+		"androidScheme": "https"
+	},
+	"packageClassList": [
+		"AppPlugin",
+		"GeolocationPlugin",
+		"ScreenOrientationPlugin",
+		"StatusBarPlugin"
+	]
+}
